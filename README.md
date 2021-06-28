@@ -1,5 +1,5 @@
 # Disease Identification of Apple Leaves
-Capstone Project - Alex & Brian
+### Capstone Project - Alex & Brian
 
 **Description:** Based on a competition from Kaggle in 2020, we use deep learning models to perform image classification and localization on photos of apple leaves. Our objective is to assess the health of each leaf and plot the location of the leaf in the image.
 
